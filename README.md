@@ -57,6 +57,10 @@ class Lampara:
 
 ## Instalación
 
-Para instalar este proyecto, clona el repositorio y ejecuta:
+Para clonar este repositorio, usa el siguiente comando en tu terminal:
+
+```bash
+git clone https://github.com/Mauroquil-bit/CoffeeMachine.git
+```
 
 
