@@ -55,4 +55,8 @@ class Lampara:
 - `status()`: Muestra el estado actual de los suministros de la máquina.
 - `take()`: Extrae todo el dinero recaudado por la máquina.
 
+## Instalación
 
+Para instalar este proyecto, clona el repositorio y ejecuta:
+
+git clone https://github.com/Mauroquil-bit/CoffeeMachine.git
