@@ -23,6 +23,31 @@ coffee_machine.buy('1')  # Comprar un espresso
 coffee_machine.status()  # Verificar el estado actual
 ```
 
+## Ejemplo de Definición de Clase
+
+Aquí hay un ejemplo de cómo puedes definir una clase simple en Python. En este caso, creamos una clase `Lampara` que tiene métodos para encender, apagar y mostrar su estado.
+
+```python
+class Lampara:
+    def __init__(self):
+        self.encendida = False
+
+    def encender(self):
+        self.encendida = True
+        print("Lámpara encendida")
+
+    def apagar(self):
+        self.encendida = False
+        print("Lámpara apagada")
+
+    def estado(self):
+        if self.encendida:
+            print("La lámpara está encendida")
+        else:
+            print("La lámpara está apagada")
+```
+
+
 ### Documentación de Métodos
 
 - `fill(water, milk, coffee, cups)`: Método para rellenar los suministros de la máquina de café.
