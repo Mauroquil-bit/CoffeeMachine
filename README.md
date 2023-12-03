@@ -23,4 +23,11 @@ coffee_machine.buy('1')  # Comprar un espresso
 coffee_machine.status()  # Verificar el estado actual
 ```
 
+### Documentación de Métodos
+
+- `fill(water, milk, coffee, cups)`: Método para rellenar los suministros de la máquina de café.
+- `buy(option)`: Método para comprar un café. Las opciones son '1' para espresso, '2' para latte y '3' para cappuccino.
+- `status()`: Muestra el estado actual de los suministros de la máquina.
+- `take()`: Extrae todo el dinero recaudado por la máquina.
+
 
