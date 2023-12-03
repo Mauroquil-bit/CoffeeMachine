@@ -23,4 +23,4 @@ coffee_machine.buy('1')  # Comprar un espresso
 coffee_machine.status()  # Verificar el estado actual
 ```
 
-Asegúrate de cerrar el bloque de código con otros tres backticks.
+
