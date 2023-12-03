@@ -62,5 +62,5 @@ Para clonar este repositorio, usa el siguiente comando en tu terminal:
 ```bash
 git clone https://github.com/Mauroquil-bit/CoffeeMachine.git
 ```
-
+Asegúrate de tener Git instalado en tu sistema para poder ejecutar este comando.
 
